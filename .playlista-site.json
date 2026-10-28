@@ -1,0 +1,16 @@
+{
+  "generator": "playlista/website",
+  "files": [
+    ".nojekyll",
+    "assets/example.lista",
+    "assets/favicon.svg",
+    "assets/library.webp",
+    "assets/playlist.webp",
+    "downloads.js",
+    "index.html",
+    "releases.json",
+    "site.js",
+    "style.css",
+    "README.md"
+  ]
+}
